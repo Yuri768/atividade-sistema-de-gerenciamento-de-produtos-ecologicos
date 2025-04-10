@@ -77,3 +77,21 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
 - [ ] Criei um Pull Request seguindo as orientações que estao nesse [documento](instrucoes-pull-request.md).
+
+
+---
+
+Comandos do terminal:
+
+`git config --global user.email "meu email"
+git config --global user.name "nome no github"
+git checkout -b nome-sobrenome
+code .
+npm init -y
+npm install
+npm install -g typescript
+tsc --version
+tsc --init 
+npm install -g ts-node
+`
+
