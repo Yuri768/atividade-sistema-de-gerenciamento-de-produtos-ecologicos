@@ -84,14 +84,23 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 Comandos do terminal:
 
 `git config --global user.email "meu email"
+
 git config --global user.name "nome no github"
+
 git checkout -b nome-sobrenome
+
 code .
+
 npm init -y
+
 npm install
+
 npm install -g typescript
+
 tsc --version
+
 tsc --init 
+
 npm install -g ts-node
 `
 
